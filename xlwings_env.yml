@@ -1,0 +1,34 @@
+name: xlwings_env
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2019.10.16=0
+  - certifi=2019.9.11=py37_0
+  - comtypes=1.1.7=py37_0
+  - icc_rt=2019.0.0=h0cc432a_1
+  - intel-openmp=2019.4=245
+  - mkl=2019.4=245
+  - mkl-service=2.3.0=py37hb782905_0
+  - mkl_fft=1.0.15=py37h14836fe_0
+  - mkl_random=1.1.0=py37h675688f_0
+  - numpy=1.17.3=py37h4ceb530_0
+  - numpy-base=1.17.3=py37hc3f5095_0
+  - openssl=1.1.1d=he774522_3
+  - pandas=0.24.2=py37ha925a31_0
+  - pip=19.3.1=py37_0
+  - python=3.7.5=h8c8aaf0_0
+  - python-dateutil=2.8.1=py_0
+  - pytz=2019.3=py_0
+  - pywin32=223=py37hfa6e2cd_1
+  - scipy=1.3.0=py37h29ff71c_0
+  - setuptools=41.6.0=py37_0
+  - six=1.13.0=py37_0
+  - sqlite=3.30.1=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_0
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_0
+  - xlwings=0.15.8=py37_0
+prefix: C:\Users\fzhan\Anaconda3\envs\xlwings_env
+
