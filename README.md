@@ -9,4 +9,4 @@ Please download all files under this repo to use the tool. Also, properly setup 
  - Open Portfolio_Evaluating_Tool.xlsm
  - Click `Tool Intro` VBA Macro button in the workbook to see detailed functionalities
  
- Pleae use this [link](https://drive.google.com/file/d/1jI3bDZgeuGuVJ9jVmApoN9H0eQP7zcmU/view?usp=sharing) for a video demo
+ Pleae use this [link](https://www.dropbox.com/s/p12a358q7lk6phw/Portfolio-Evaluating-Tool-Video-Demo.mp4?dl=0) for a video demo
